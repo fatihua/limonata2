@@ -4,3 +4,4 @@ limonata tarifi:
 3.Şeker (karıştır)
 4.Esmer şeker ekle
 5.Limontuzu ekle
+6.Buz ekle
