@@ -6,3 +6,5 @@ limonata tarifi:
 5.Limontuzu ekle
 6.Buz ekle
 7.Reyhan ekle
+8.Nane ekle
+
